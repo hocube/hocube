@@ -7,7 +7,7 @@
 	<img
 	  src="https://render.gitanimals.org/farms/hocube"
 	  width="400"
-	  height="200"
+	  height="400"
 	/>
 	</a>
 </div>
